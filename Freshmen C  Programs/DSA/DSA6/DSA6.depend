@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642135436 source:c:\users\administrator\desktop\prog c\dsa6\main.c
+	<stdio.h>
+	<stdlib.h>
+
