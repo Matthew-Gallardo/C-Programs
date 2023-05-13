@@ -1,4 +1,4 @@
-/*Programmer: Dayag, Jahren Hans P. 	Section: BSCS 2-4
+
 
 Purpose of this program: *to find the maximum and minimum element in an array. */
 #include <stdio.h>
